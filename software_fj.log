@@ -1,0 +1,6 @@
+2026-11-22 16:26:07,344 | INFO | Cotización exitosa ([Sala] SAL-01 - Sala de Reuniones A | Capacidad: 12 | Disponible) -> Total: $150,000.00
+2026-11-22 16:26:07,344 | INFO | Cotización exitosa ([Equipo] EQ-02 - Portátil de Pruebas | Garantía: 2 día(s) | Disponible) -> Total: $74,970.00
+2026-11-22 16:26:07,344 | ERROR | Error controlado en cotización: La cantidad de sesiones debe ser mayor que 0.
+2026-11-22 16:26:43,880 | INFO | Cotización exitosa ([Sala] SAL-01 - Sala de Reuniones A | Capacidad: 12 | Disponible) -> Total: $150,000.00
+2026-11-22 16:26:43,880 | INFO | Cotización exitosa ([Equipo] EQ-02 - Portátil de Pruebas | Garantía: 2 día(s) | Disponible) -> Total: $74,970.00
+2026-11-22 16:26:43,882 | ERROR | Error controlado en cotización: La cantidad de sesiones debe ser mayor que 0.
