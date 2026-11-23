@@ -4,3 +4,27 @@
 2026-11-22 16:26:43,880 | INFO | Cotización exitosa ([Sala] SAL-01 - Sala de Reuniones A | Capacidad: 12 | Disponible) -> Total: $150,000.00
 2026-11-22 16:26:43,880 | INFO | Cotización exitosa ([Equipo] EQ-02 - Portátil de Pruebas | Garantía: 2 día(s) | Disponible) -> Total: $74,970.00
 2026-11-22 16:26:43,882 | ERROR | Error controlado en cotización: La cantidad de sesiones debe ser mayor que 0.
+2026-11-23 00:20:21,116 | ERROR | Operación 02 Registro correo inválido: El correo no tiene un formato válido
+2026-11-23 00:20:21,116 | ERROR | Operación 03 Registro duplicado: Ya existe un cliente con esa identificación
+2026-11-23 00:20:21,116 | ERROR | Operación 08 Crear sala inválida: La capacidad de la sala debe ser mayor que 0.
+2026-11-23 00:20:21,116 | ERROR | Operación 11 Cotizar asesoría inválida: La cantidad de sesiones debe ser mayor que 0.
+2026-11-23 00:20:21,116 | INFO | Reserva R01 procesada: 100000.00
+2026-11-23 00:20:21,116 | INFO | Finalizó intento de procesamiento R01
+2026-11-23 00:20:21,116 | INFO | Reserva R01 confirmada
+2026-11-23 00:20:21,116 | ERROR | Operación 13 Confirmación repetida: Solo se pueden confirmar reservas pendientes.
+2026-11-23 00:20:21,116 | INFO | Reserva R01 cancelada
+2026-11-23 00:20:21,116 | ERROR | Error al procesar reserva R01: No se puede procesar una reserva cancelada.
+2026-11-23 00:20:21,116 | INFO | Finalizó intento de procesamiento R01
+2026-11-23 00:20:21,116 | ERROR | Operación 15 Procesar cancelada: No se puede procesar una reserva cancelada.
+2026-11-23 01:00:20,314 | ERROR | Operación 02 Registro correo inválido: El correo no tiene un formato válido
+2026-11-23 01:00:20,314 | ERROR | Operación 03 Registro duplicado: Ya existe un cliente con esa identificación
+2026-11-23 01:00:20,314 | ERROR | Operación 08 Crear sala inválida: La capacidad de la sala debe ser mayor que 0.
+2026-11-23 01:00:20,314 | ERROR | Operación 11 Cotizar asesoría inválida: La cantidad de sesiones debe ser mayor que 0.
+2026-11-23 01:00:20,314 | INFO | Reserva R01 procesada: 100000.00
+2026-11-23 01:00:20,314 | INFO | Finalizó intento de procesamiento R01
+2026-11-23 01:00:20,315 | INFO | Reserva R01 confirmada
+2026-11-23 01:00:20,315 | ERROR | Operación 13 Confirmación repetida: Solo se pueden confirmar reservas pendientes.
+2026-11-23 01:00:20,315 | INFO | Reserva R01 cancelada
+2026-11-23 01:00:20,315 | ERROR | Error al procesar reserva R01: No se puede procesar una reserva cancelada.
+2026-11-23 01:00:20,315 | INFO | Finalizó intento de procesamiento R01
+2026-11-23 01:00:20,315 | ERROR | Operación 15 Procesar cancelada: No se puede procesar una reserva cancelada.
